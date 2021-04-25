@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-<img align="right" src="https://github.com/rodbitu/rodbitu/blob/master/undraw_programming_2svr%20(1).png" width="425"/>
+<img align="right" src="https://github.com/rodbitu/rodbitu/blob/master/undraw_programming_2svr.svg" width="425"/>
 
 <br/>
 <br/>
