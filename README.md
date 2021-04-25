@@ -7,7 +7,7 @@ Me chamo Rodrigo Bitu de Moraes, gosto de criar novas aplicações para superar 
 <br/>
 
 
-<br/>
+
 # Contatos
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-bitu-de-moraes-366037191/)](https://www.linkedin.com/in/rodrigo-bitu-de-moraes-366037191) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailtodigomoraes0@gmail.com)](digomoraes0@gmail.com)
