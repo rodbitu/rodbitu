@@ -2,13 +2,12 @@
 
 <img align="right" src="https://github.com/rodbitu/rodbitu/blob/master/undraw_programming_2svr%20(1).png" width="425"/>
 
+<br/>
+Me chamo Rodrigo Bitu de Moraes, gosto de criar novas aplicações para superar minhas dificuldades e facilitar tanto a vida de outras pessoas quanto a minha. Melhorando minhas habilidades e conhecimentos em aplicações web e mobile, e nas horas vagas estudando DevOps e CyberSecurity
+<br/>
 
 
-Me chamo Rodrigo Bitu de Moraes, gosto de criar novas aplicações para superar minhas dificuldades e facilitar tanto a vida de outras pessoas quanto a minha. Melhorando minhas habilidades e conhecimentos em aplicações web e mobile, e nas horas vagas estudando DevOps e CyberSecurity.
-
-
-
-
+<br/>
 # Contatos
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-bitu-de-moraes-366037191/)](https://www.linkedin.com/in/rodrigo-bitu-de-moraes-366037191) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailtodigomoraes0@gmail.com)](digomoraes0@gmail.com)
