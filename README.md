@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-<img align="right" src="https://github.com/rodbitu/rodbitu/blob/master/undraw_programming_2svr.svg" width="425"/>
+<img align="right" src="https://github.com/rodbitu/rodbitu/blob/master/undraw_programming_2svr.svg" width="370"/>
 
 <br/>
 <br/>
@@ -9,7 +9,7 @@ Me chamo Rodrigo Bitu de Moraes, gosto de criar novas aplicações para superar 
 <br/>
 <br/>
 <br/>
-<br/>
+
 
 
 # Contatos
