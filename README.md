@@ -1,4 +1,4 @@
-# Hello, World! 👋
+# Hello, World! 🌎
 
 <img align="right" src="https://github.com/rodbitu/rodbitu/blob/master/undraw_programming_2svr.svg" width="370"/>
 
@@ -23,8 +23,8 @@ Me chamo Rodrigo Bitu de Moraes, gosto de criar novas aplicações para superar 
 # 📈 Estatísticas do Github
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodbitu&theme=blue-green" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodbitu&theme=blue-green" width="400"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rodbitu&line_height=27&show_icons=true&count_private=true&theme=blue-green" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rodbitu&line_height=27&show_icons=true&count_private=true&theme=blue-green" width="400"/>
 </a>
