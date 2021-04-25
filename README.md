@@ -2,7 +2,12 @@
 
 <img align="right" src="https://github.com/rodbitu/rodbitu/blob/master/undraw_programming_2svr%20(1).png" width="425"/>
 
+
+
 Me chamo Rodrigo Bitu de Moraes, gosto de criar novas aplicações para superar minhas dificuldades e facilitar tanto a vida de outras pessoas quanto a minha. Melhorando minhas habilidades e conhecimentos em aplicações web e mobile, e nas horas vagas estudando DevOps e CyberSecurity.
+
+
+
 
 # Contatos
 
