@@ -40,8 +40,8 @@
 ## &nbsp;Social Links
 
 <a target="_blank" href="https://www.linkedin.com/in/rodrigo-bitu-de-moraes-366037191/">
-  <img align="left" alt="Linkedin" width="22px" src="https://github.com/rodbitu/rodbitu/blob/master/linkedin.svg" />
+  <img align="left" alt="Linkedin" width="40px" src="https://github.com/rodbitu/rodbitu/blob/master/linkedin.svg" />
 </a>
 <a target="_blank" href="mailto:digomoraes0@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://github.com/rodbitu/rodbitu/blob/master/gmail.svg" />
+  <img align="left" alt="Gmail" width="40px" src="https://github.com/rodbitu/rodbitu/blob/master/gmail.svg" />
 </a>
