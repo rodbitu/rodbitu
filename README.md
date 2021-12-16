@@ -3,6 +3,7 @@
 
 <img align="right" src="https://github.com/rodbitu/rodbitu/blob/master/undraw_programming_2svr.svg" width="370"/>
 
+<br><br>
 
 - 🔥 Junior Web Developer & Studying Cybersecurity in my spare time 
 
@@ -36,11 +37,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rodbitu&line_height=27&show_icons=true&count_private=true&theme=blue-green" width="400"/>
 </a>
 
-# &nbsp;Social Links
+## &nbsp;Social Links
 
-<a target="_blank" href="https://www.linkedin.com/in/aryclenio-barros-060322135/">
-  <img align="left" alt="LinkdeIN" width="22px" color="blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a target="_blank" href="https://www.linkedin.com/in/rodrigo-bitu-de-moraes-366037191/">
+  <img align="left" alt="LinkdeIN" width="22px" background-color="blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a target="_blank" href="mailto:digomoraes0@gmail.com">
-  <img align="left" alt="Gmail" width="22px" color="red" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Gmail" width="22px" background-color="red" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
