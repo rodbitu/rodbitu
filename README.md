@@ -37,7 +37,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rodbitu&line_height=27&show_icons=true&count_private=true&theme=blue-green" width="400"/>
 </a>
 
-## &nbsp;Social Links
+## 👨🏽‍💻 &nbsp;Social Links
 
 <a target="_blank" href="https://www.linkedin.com/in/rodrigo-bitu-de-moraes-366037191/">
   <img align="left" alt="Linkedin" width="40px" src="https://github.com/rodbitu/rodbitu/blob/master/linkedin.svg" />
