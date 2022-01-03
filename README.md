@@ -23,8 +23,8 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![AWS](https://img.shields.io/badge/-Amazon-05122A?style=flat&logo=Amazon)&nbsp;
-![GCP](https://img.shields.io/badge/-Google-05122A?style=flat&logo=Google)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=Amazon)&nbsp;
+![GCP](https://img.shields.io/badge/-GCP-05122A?style=flat&logo=Google)&nbsp;
 
 <br><br>
 
