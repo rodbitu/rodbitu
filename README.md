@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working at [ENACOM](https://github.com/ENACOM)
 
-- 👨‍💻 All of my projects are available at [rodrigobitu.dev]
+- 👨‍💻 All of my projects are available at [rodrigobitu.dev](https://rodrigobitu.vercel.app/)
 
 <br><br>
 
