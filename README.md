@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working at [ENACOM](https://github.com/ENACOM)
 
-- 👨‍💻 All of my projects are available at [rodrigobitu.dev](https://rodrigobitu.vercel.app/)
+- 👨‍💻 All of my projects are available at [rodrigobitu.vercel.app](https://rodrigobitu.vercel.app/)
 
 <br><br>
 
@@ -31,7 +31,7 @@
 ## 📈 &nbsp;GitHub Analytics
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodbitu&layout=compact&theme=blue-green" width="355"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodbitu&layout=compact&theme=blue-green" width="400"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rodbitu&line_height=27&show_icons=true&count_private=true&theme=blue-green" width="400"/>
