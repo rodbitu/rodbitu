@@ -5,7 +5,7 @@
 
 <br><br>
 
-- 🔥 Junior Back-End Developer & Studying Cloud DevOps in my spare time 
+- 🔥 Back-End Developer & Studying Cloud DevOps in my spare time 
 
 - 🔭 I’m currently working at [ENACOM](https://github.com/ENACOM)
 
