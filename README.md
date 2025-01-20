@@ -4,7 +4,7 @@
 
 <br><br>
 
-- 🔥 Back-End Developer & Studying Cloud DevOps in my spare time
+- 🔥 Software Engineer & Studying Cloud DevOps in my spare time
 
 - 👨‍💻 All of my projects are available at [rodrigobitu.vercel.app](https://rodrigobitu.vercel.app/)
 
@@ -18,12 +18,16 @@
 
 
 - ### Frameworks and Libraries
-#### JavaScript/Node.js
+#### JavaScript
+![React.js](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs)&nbsp;
+![Nest.js](https://img.shields.io/badge/-Nest.js-05122A?style=flat&logo=nestjs)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)&nbsp;
 ![Mongoose](https://img.shields.io/badge/-Mongoose-05122A?style=flat&logo=mongoose)&nbsp;
+
 
 
 #### Java
@@ -37,12 +41,13 @@
 ![MongoDB](https://img.shields.io/badge/-mongoDB-05122A?style=flat&logo=mongoDB)&nbsp;
 
 - ### Version Control
+![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)&nbsp;
 
 - ### IDEs and Editors
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visualstudiocode)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=vscode)&nbsp;
 ![Pycharm](https://img.shields.io/badge/-Pycharm-05122A?style=flat&logo=pycharm)&nbsp;
 ![Intellij-Idea](https://img.shields.io/badge/-Intellij-05122A?style=flat&logo=intellij-idea)&nbsp;
 
@@ -52,13 +57,19 @@
 ![GCP](https://img.shields.io/badge/-GCP-05122A?style=flat&logo=Google)&nbsp;
 
 - ### Monitoring and DevOps Tools
+![Grafana](https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=grafana)&nbsp;
+![Prometheus](https://img.shields.io/badge/-Prometheus-05122A?style=flat&logo=prometheus)&nbsp;
+![Datadog](https://img.shields.io/badge/-Datadog-05122A?style=flat&logo=datadog)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Sonarqube](https://img.shields.io/badge/-Sonarqube-05122A?style=flat&logo=Sonarqube)&nbsp;
 ![OpenShift](https://img.shields.io/badge/-OpenShift-05122A?style=flat&logo=redhat)&nbsp;
-![Datadog](https://img.shields.io/badge/-Datadog-05122A?style=flat&logo=datadog)&nbsp;
+
+
 
 - ### Other Tools and Technologies
 ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-05122A?style=flat&logo=apachekafka)&nbsp;
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
 ![Databricks](https://img.shields.io/badge/-Databricks-05122A?style=flat&logo=databricks)&nbsp;
 
 <br><br>
