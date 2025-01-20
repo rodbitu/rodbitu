@@ -60,6 +60,7 @@
 ![Grafana](https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=grafana)&nbsp;
 ![Prometheus](https://img.shields.io/badge/-Prometheus-05122A?style=flat&logo=prometheus)&nbsp;
 ![Datadog](https://img.shields.io/badge/-Datadog-05122A?style=flat&logo=datadog)&nbsp;
+![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Sonarqube](https://img.shields.io/badge/-Sonarqube-05122A?style=flat&logo=Sonarqube)&nbsp;
 ![OpenShift](https://img.shields.io/badge/-OpenShift-05122A?style=flat&logo=redhat)&nbsp;
