@@ -4,7 +4,7 @@
 
 <br><br>
 
-- 🔥 Software Engineer & Studying Cloud DevOps in my spare time
+- 🔥 DevOps Engineer & Studying Cloud Security in my spare time
 
 - 👨‍💻 All of my projects are available at [rodrigobitu.vercel.app](https://rodrigobitu.vercel.app/)
 
